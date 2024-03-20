@@ -101,10 +101,10 @@ We welcome contributions to make NoteShare better! If you have any bug fixes, fe
 
 ## License
 
-NoteShare is licensed under the [**MIT License**](https://github.com/ankitkr437/NoteSharing/blob/main/LICENSE). Feel free to use, modify, and distribute the code for personal and commercial projects.
+NoteShare is licensed under the [**MIT License**](https://github.com/prashantMchandanfule/). Feel free to use, modify, and distribute the code for personal and commercial projects.
 
 ## Contact
 
-If you have any questions, feedback, or inquiries, please contact us at **ankitloharshi@gmail.com** or visit our [**website**](https://notesharing.onrender.com/).
+If you have any questions, feedback, or inquiries, please contact us at **chandanfuleprashant@gmail.com** or visit our [**website**](https://notesharing.onrender.com/).
 
 Happy Note Sharing! 📝
